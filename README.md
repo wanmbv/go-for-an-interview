@@ -5,6 +5,7 @@
 + thinking in java and effective java
 + 数据结构与算法分析-Java语言描述 第3版
 + JSP & Servlet学习笔记
++ HTTP TCP
 + postgresql greenplum oracle
 > PostgreSQL 修炼之道
 
