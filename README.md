@@ -25,3 +25,10 @@
 + hadoop hbase spark
 + 机器学习
 + python
+
+## 实战
+> develpers community
++ spring+springmvc+mybatis
++ 组织机构设计+shiro集成
++ 技术博客站实现
++ nginx+redis应用
