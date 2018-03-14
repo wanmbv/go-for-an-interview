@@ -1,7 +1,7 @@
 # Summary
 ## Preparation
 + a resume
-+ 深入理解Java虚拟机：JVM高级特性与最佳实践
++ 深入理解Java虚拟机：JVM高级特性与最佳实践 ed
 + thinking in java and effective java
 + 数据结构与算法分析-Java语言描述 第3版
 + JSP & Servlet学习笔记
