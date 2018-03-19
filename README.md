@@ -1,9 +1,9 @@
 # Summary
 ## Preparation
 + a resume
-+ 深入理解Java虚拟机：JVM高级特性与最佳实践 done
-+ thinking in java and effective java
-+ 数据结构与算法分析-Java语言描述 第3版
++ 深入理解Java虚拟机：JVM高级特性与最佳实践         done
++ thinking in java and effective java  
++ 数据结构与算法分析-Java语言描述 第3版            done
 + JSP & Servlet学习笔记
 + 设计模式
 + HTTP TCP
