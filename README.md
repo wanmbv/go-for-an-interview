@@ -6,7 +6,7 @@
 + 数据结构与算法分析-Java语言描述 第3版 <strong>*done*</strong>
 + JSP & Servlet学习笔记 <strong>*done*</strong>
 + 设计模式
-+ HTTP TCP
++ HTTP TCP <strong>*done*</strong>
 + postgresql greenplum oracle
 > PostgreSQL 修炼之道
 
