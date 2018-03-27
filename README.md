@@ -5,7 +5,7 @@
 + thinking in java and effective java  
 + 数据结构与算法分析-Java语言描述 第3版 <strong>*done*</strong>
 + JSP & Servlet学习笔记 <strong>*done*</strong>
-+ 设计模式
++ 设计模式 <strong>*done*</strong>
 + HTTP TCP <strong>*done*</strong>
 + postgresql greenplum oracle
 > PostgreSQL 修炼之道
