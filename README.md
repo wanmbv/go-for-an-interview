@@ -8,7 +8,7 @@
 + JSP & Servlet学习笔记 <strong>*done*</strong>
 + 设计模式 <strong>*done*</strong>
 + HTTP TCP <strong>*done*</strong>
-+ postgresql greenplum oracle
++ postgresql greenplum oracle <strong>*done*</strong>
 > PostgreSQL 修炼之道
 
 > Greenplum企业应用实战
