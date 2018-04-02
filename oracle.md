@@ -2,6 +2,8 @@
 ### 分区表
 + 范围分区
 
+    hello good boy
+    
     CREATE TABLE CUSTOMER 
 
 ( 
