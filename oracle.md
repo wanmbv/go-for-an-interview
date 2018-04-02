@@ -77,3 +77,9 @@
       PARTITION PART03 TABLESPACE HASH_TS03 
     )
 
+### 数据字典
++ user_xxx
++ all_xxx
++ dba_xxx
++ v$session
++ v$process
